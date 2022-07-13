@@ -54,11 +54,11 @@
 
 - ### webserv - system programming[I/O multiplexing]
 
-​		[![gilee's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560833)](https://github.com/JaeSeoKim/badge42)
+​		[![gilee's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560833)](https://github.com/weg901127/webserv) <- repo link
 
 - ### Inception - docker compose
 
-​		[![gilee's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560831)](https://github.com/JaeSeoKim/badge42)
+​		[![gilee's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560831)](https://github.com/weg901127/inception) <-repo link
 
 
 

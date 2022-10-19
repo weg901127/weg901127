@@ -4,6 +4,14 @@
 
 ## gilee's completed 42 sujects
 
+- ### webserv - system programming[I/O multiplexing]
+
+​		[![gilee's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560833)](https://github.com/weg901127/webserv) <- repo link
+
+- ### Inception - docker compose
+
+​		[![gilee's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560831)](https://github.com/weg901127/inception) <-repo link
+
 - ### Born2beroot -  **LVM & System Administration**
 
 ​		[![gilee's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2180555)](https://github.com/JaeSeoKim/badge42)
@@ -52,13 +60,7 @@
 
 ​		[![gilee's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2483847)](https://github.com/JaeSeoKim/badge42)
 
-- ### webserv - system programming[I/O multiplexing]
 
-​		[![gilee's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560833)](https://github.com/weg901127/webserv) <- repo link
-
-- ### Inception - docker compose
-
-​		[![gilee's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2560831)](https://github.com/weg901127/inception) <-repo link
 
 
 

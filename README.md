@@ -1,7 +1,3 @@
-![gilee's GitHub stats](https://github-readme-stats.vercel.app/api?username=weg901127&show_icons=true&theme=radical)
-
-[![gilee's 42 stats](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-
 ## gilee's completed 42 sujects
 
 - ### webserv - system programming[I/O multiplexing]
@@ -61,7 +57,9 @@
 ​		[![gilee's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/project/2483847)](https://github.com/JaeSeoKim/badge42)
 
 
+![gilee's GitHub stats](https://github-readme-stats.vercel.app/api?username=weg901127&show_icons=true&theme=radical)
 
+[![gilee's 42 stats](https://badge42.vercel.app/api/v2/cl1rggkvr005709mmnubku3a5/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
